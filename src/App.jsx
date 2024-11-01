@@ -5,7 +5,7 @@ import HeaderBanner from './components/HeaderBanner';
 import Catalog from './components/Catalog';
 import ProductDetails from './components/ProductDetails';
 import Users from './components/Users';
-import Header from './components/header';
+import Header from './components/Header';
 
 const App = () => {
   return (
